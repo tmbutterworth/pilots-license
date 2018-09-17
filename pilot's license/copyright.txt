@@ -1,5 +1,5 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: 
+Source: https://github.com/tmbutterworth/pilots-license
 
 Files: *
 Copyright: Timothy Butterworth <timothy.m.butterworth@gmail.com>
